@@ -1,4 +1,4 @@
-# 
+# Turbo dex front-running bot workflow for Mac OS | Smart dex front-running bot workflow for PC Windows. Featuring Web3 connectivity and mev protection — optimized for maximum performance on every platform.
 
 
 
